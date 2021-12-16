@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="41px" height="39px" viewBox="0 0 41 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M11.6322341,0.621339181 C-0.98156407,7.0360394 -3.15905398,23.3580119 4.23659007,33.149238 C11.6322341,42.9404641 19.5139375,38.037723 23.8409829,33.149238 C26.9029455,29.3705858 41,42.6044308 41,33.149238 C41,23.6940452 37.9646378,13.4507395 28.1680282,7.0360394 C18.3714187,0.621339181 14.9894036,-1.08593688 11.6322341,0.621339181 Z" id="Path" fill="#0B3765" fill-rule="nonzero"></path>
+<svg width="214px" height="48px" viewBox="0 0 214 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Metasho_Logox2</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header-Desktop" transform="translate(-149.000000, -16.000000)">
+            <g id="Metasho_Logox2" transform="translate(149.571429, 16.000000)">
+                <g id="Group-Copy" stroke="#FFFFFF">
+                    <path d="M13.2142857,4.48660687 L25.719069,39.5 L0.709502455,39.5 L13.2142857,4.48660687 Z" id="Triangle-Copy-2" stroke-opacity="0.59" opacity="0.714611235"></path>
+                    <path d="M22.4285714,1.49769142 L38.7210557,47.5 L6.13608714,47.5 L22.4285714,1.49769142 Z" id="Triangle-Copy-3" stroke-opacity="0.64"></path>
+                    <ellipse id="Oval-Copy" stroke-opacity="0.28" cx="49.4285714" cy="24.5" rx="22.5" ry="12"></ellipse>
+                </g>
+                <text id="MetaShop-Real-Estate" font-family="Poppins-Black, Poppins" font-size="16" font-weight="800" line-spacing="16" letter-spacing="-0.4" fill="#FFFFFF">
+                    <tspan x="41.4285714" y="33">METASHOP </tspan>
+                    <tspan x="133.556571" y="34.3120117" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="-0.533333333">Real Estate</tspan>
+                </text>
+            </g>
+        </g>
     </g>
 </svg>
