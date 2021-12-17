@@ -1,12 +1,12 @@
 <template>
   <section class="home">
 
-    <div class="py-24 md:py-36 w-full bg-center bg-cover" style="background-image: url(/images/home.png)">
+    <div class="py-32 md:py-32 w-full bg-center bg-contain bg-black bg-no-repeat" style="background-image: url(/images/home.png); min-height: 425px;">
       <h1 class="metaverse-real-estat text-center text-white text-4xl sm:text-5xl md:text-6xl font-bold">Metaverse Real Estate</h1>
       <h2 class="welcome-to-the-futur text-center text-white text-2xl sm:text-2xl md:text-2xl">Welcome to the future of property assets</h2>
     </div>
 
-    <div class="rectangle px-24 py-20 w-full mx-auto my-24 bg-right-bottom bg-cover rounded-lg" style="background-image: url(/images/Rectangle.png); max-width: 1003px">
+    <div class="rectangle px-24 py-20 w-full mx-auto my-24 bg-right-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Rectangle.png); max-width: 1003px">
       <div class="title text-white text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
         Available for your game,<br />
         experience and land
@@ -17,7 +17,7 @@
       </div>
     </div>
 
-    <div class="discover px-32 pt-20 pb-48 mx-auto my-24 w-full bg-bottom bg-cover rounded-lg" style="background-image: url(/images/Discover.png); max-width: 1003px">
+    <div class="discover px-32 pt-20 pb-48 mx-auto my-24 w-full bg-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Discover.png); max-width: 1003px">
       <div class="title text-white text-center text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
         Discover our assets
       </div>
