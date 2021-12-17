@@ -22,6 +22,10 @@
       <p class="my-4 text-xs leading-normal text-gray-100">
         The best  digital marketplace for real estate collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.
       </p>
+       <img src="~/static/images/discord.png" alt="Typeform Logo" class="block object-contain h-12" />
+        <img src="~/static/images/twitter.png" alt="Typeform Logo" class="block object-contain h-12" />
+         <img src="~/static/images/instagram.png" alt="Typeform Logo" class="block object-contain h-12" />
+          <img src="~/static/images/youtube.png" alt="Typeform Logo" class="block object-contain h-12" />
     </div>
     <nav class="col-span-1 md:col-span-1 lg:col-span-2">
       <p class="mb-3 text-md font-semibold text-gray-200 tracking-wider">Assets</p>
