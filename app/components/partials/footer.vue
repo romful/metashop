@@ -1,6 +1,6 @@
 <template>
   <footer class="container px-4 py-12 mx-auto border-solid border-gray-300">
-  <div class="container px-4 py-12 mx-auto border-solid border-gray-300">
+  <div class="container px-4 py-12 mx-auto border-solid border-gray-300 bg-black">
 <h1 class="mb-3 text-3xl font-semibold leading-tight text-center text-gray-900 md:text-xl">Join the 12,000+ businesses using Petra</h1>
     <p class="mb-16 text-medium text-center text-gray-600">Our waiting list for early bird clients is growing, get your spot and we'll update you soon!</p>
     <div class="grid grid-cols-2 gap-10 justify-center lg:grid-cols-4">
