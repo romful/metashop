@@ -1,7 +1,7 @@
 <template>
   <section class="home">
-    <div class="welcome-bg py-24 md:py-36 mx-auto w-full">
-      <h1 class="metaverse-real-estat text-center text-white text-4xl sm:text-5xl md:text-6xl font-bold">Metaverse Real Estatee</h1>
+    <div class="bg-[url('/img/welcome.png')] py-24 md:py-36 mx-auto w-full">
+      <h1 class="metaverse-real-estat text-center text-white text-4xl sm:text-5xl md:text-6xl font-bold">Metaverse Real Estate</h1>
       <h2 class="welcome-to-the-futur text-center text-white text-2xl sm:text-2xl md:text-2xl">Welcome to the future of property assets</h2>
     </div>
 
