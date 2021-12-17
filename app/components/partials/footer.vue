@@ -22,10 +22,10 @@
       <p class="my-4 text-xs leading-normal text-gray-100">
         The best  digital marketplace for real estate collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.
       </p>
-       <img src="~/static/images/discord.png" alt="Discord" class="block object-contain h-12" />
-       <img src="~/static/images/twitter.png" alt="Twitter" class="block object-contain h-12" />
-        <img src="~/static/images/instagram.png" alt="Instagram" class="block object-contain h-12" />
-       <img src="~/static/images/youtube.png" alt="Youtube" class="block object-contain h-12" />
+       <img src="~/static/images/discord.png" alt="Discord" class="block object-contain" />
+       <img src="~/static/images/twitter.png" alt="Twitter" class="block object-contain" />
+        <img src="~/static/images/instagram.png" alt="Instagram" class="block object-contain" />
+       <img src="~/static/images/youtube.png" alt="Youtube" class="block object-contain" />
     </div>
     <nav class="col-span-1 md:col-span-1 lg:col-span-2">
       <p class="mb-3 text-md font-semibold text-gray-200 tracking-wider">Assets</p>
