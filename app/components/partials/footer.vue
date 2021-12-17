@@ -6,8 +6,7 @@
         <Logo />
       </a>
       <p class="my-4 text-xs leading-normal text-gray-600">
-        Empower your business with <strong> all the right tools</strong> to accept online payments and provide the best customer experience.
-
+        The best  digital marketplace for real estate collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.
       </p>
     </div>
     <nav class="col-span-1 md:col-span-1 lg:col-span-2">
