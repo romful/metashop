@@ -49,8 +49,9 @@
       <p class="mb-3 text-md font-semibold text-gray-200 tracking-wider">Company</p>
       <a class="flex mb-3 text-sm font-normal text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">About Us</a>
       <a class="flex mb-3 text-sm font-normal text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Investors</a>
-      <a class="flex mb-3 text-sm font-normal text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Privacy</a>
-      <a class="flex mb-3 text-sm font-normal text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Terms</a>
+      <a class="flex mb-3 text-sm font-normal text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Careers</a>
+      <a class="flex mb-3 text-sm font-normal text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Terms of Service</a>
+      <a class="flex mb-3 text-sm font-normal text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Privacy Policy</a>
     </nav>
   </div>
 
