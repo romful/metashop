@@ -17,11 +17,7 @@
 </div>
   <div class="grid grid-cols-2 gap-10 mb-3 md:grid-cols-3 lg:grid-cols-11 lg:gap-20">
     <div class="col-span-3">
-      <div class="header__logo">
-      <nuxt-link to="/">
-        <img :src="logo" alt="Logo" />
-      </nuxt-link>
-    </div>
+       <img src="~/static/images/uploads/logo.svg" alt="Typeform Logo" class="block object-contain h-12" />
 
       <p class="my-4 text-xs leading-normal text-gray-100">
         The best  digital marketplace for real estate collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.
