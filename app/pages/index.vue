@@ -4,8 +4,7 @@
       <h1 class="metaverse-real-estat text-center text-white text-4xl sm:text-5xl md:text-6xl font-bold">Metaverse Real Estate</h1>
       <h2 class="welcome-to-the-futur text-center text-white text-2xl sm:text-2xl md:text-2xl">Welcome to the future of property assets</h2>
     </div>
-  </section>
-  <section class="home-content">
+
     <div class="rectangle p-12 w-full bg-right-bottom bg-cover" style="background-image: url(/images/Rectangle.png)">
       <div class="title text-white text-3xl sm:text-4xl md:text-5xl font-bold">
         Available for your game,<br />
