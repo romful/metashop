@@ -1,5 +1,5 @@
 <template>
-  <footer class="container px-4 py-12 mx-auto border-t border-solid border-gray-300">
+  <footer class="container px-4 py-12 mx-auto border-solid border-gray-300">
   <div class="grid grid-cols-2 gap-10 mb-3 md:grid-cols-3 lg:grid-cols-11 lg:gap-20">
     <div class="col-span-3">
       <a href="#" class="flex items-center">
