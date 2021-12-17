@@ -27,6 +27,17 @@
       </div>
     </div>
 
+    <div class="rectangle px-24 py-20 w-full mx-auto my-24 bg-right-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Rectangle.png); max-width: 1003px">
+      <div class="title text-white text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
+        Owner of the assets you buy,<br />
+        thanks to NFT´s blockchain.
+      </div>
+      <div class="text text-white" style="padding-right: 45%;">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec semper lacus. Nulla facilisi. In hac habitasse platea dictumst. Us et netus et malesuada fames ac turpis egestas</p>
+        <p>Proin auctor enim et mi vestibulum pretium.</p>
+      </div>
+    </div>
+
   </section>
 
 
