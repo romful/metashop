@@ -5,41 +5,41 @@
       <a href="#" class="flex items-center">
         <Logo />
       </a>
-      <p class="my-4 text-xs leading-normal text-gray-50">
+      <p class="my-4 text-xs leading-normal text-gray-100">
         The best  digital marketplace for real estate collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.
       </p>
     </div>
     <nav class="col-span-1 md:col-span-1 lg:col-span-2">
       <p class="mb-3 text-md font-semibold text-gray-200 tracking-wider">Assets</p>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">Features</a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">Pricing</a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">Feedback</a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">FAQs</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Features</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Pricing</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Feedback</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">FAQs</a>
     </nav>
     <nav class="col-span-2 md:col-span-1 lg:col-span-2">
       <p class="mb-3 text-md font-semibold text-gray-200 tracking-wider">Support</p>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">Chat</a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#"> Email Support </a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">GDPR</a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#"> Help </a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Chat</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#"> Email Support </a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">GDPR</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#"> Help </a>
     </nav>
     <nav class="col-span-1 md:col-span-1 lg:col-span-2">
       <p class="mb-3 text-md font-semibold text-gray-200 tracking-wider">Resources</p>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">Blog</a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#"> Twitter </a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">Alternatives</a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">Why feature vote?</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Blog</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#"> Twitter </a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Alternatives</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Why feature vote?</a>
     </nav>
     <nav class="col-span-1 md:col-span-1 lg:col-span-2">
       <p class="mb-3 text-md font-semibold text-gray-200 tracking-wider">Company</p>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">About Us</a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">Privacy</a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">Terms</a>
-      <a class="flex mb-3 text-sm font-medium text-gray-50 transition md:mb-2 hover:text-gray-200" href="#">Status</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">About Us</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Privacy</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Terms</a>
+      <a class="flex mb-3 text-sm font-medium text-gray-100 transition md:mb-2 hover:text-gray-200" href="#">Status</a>
     </nav>
   </div>
   <div class="flex flex-col items-start justify-between pt-10 mt-10 border-t border-gray-100 md:flex-row md:items-center">
-    <p class="mb-0 text-xs text-left text-gray-50 md:mb-0">Copyright &copy; 2021 Metashop RealEstate</p>
+    <p class="mb-0 text-xs text-left text-gray-100 md:mb-0">Copyright &copy; 2021 Metashop RealEstate</p>
   </div>
   <Cookie />
 </footer>
