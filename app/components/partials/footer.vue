@@ -21,6 +21,7 @@
   <div class="grid grid-cols-2 gap-10 mb-3 md:grid-cols-3 lg:grid-cols-11 lg:gap-20">
     <div class="col-span-3">
       <a href="#" class="flex items-center">
+       <img :src="logo" alt="Logo" />
         <Logo />
       </a>
       <p class="my-4 text-xs leading-normal text-gray-100">
