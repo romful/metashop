@@ -13,9 +13,6 @@
       <div class="flex items-center justify-center">
         <img src="~/static/images/polygon-matic.png" alt="Typeform Logo" class="block object-contain h-12" />
       </div>
-      <div class="flex items-center justify-center">
-        <img src="~/static/images/opensea-realestate.png" alt="Slack Logo" class="block object-contain h-12" />
-      </div>
     </div>
 </div>
   <div class="grid grid-cols-2 gap-10 mb-3 md:grid-cols-3 lg:grid-cols-11 lg:gap-20">
