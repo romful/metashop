@@ -5,13 +5,7 @@
  ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
  */
 module.exports = {
-  theme: {
-    extend: {
-      backgroundImage: theme => ({
-       'home': "url('../public/images/home.png')"
-      })
-    }
-  },
+  theme: {},
   variants: {},
   plugins: [],
 };
