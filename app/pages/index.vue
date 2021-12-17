@@ -1,5 +1,6 @@
 <template>
   <section class="home">
+
     <div class="py-24 md:py-36 w-full bg-center bg-cover" style="background-image: url(/images/home.png)">
       <h1 class="metaverse-real-estat text-center text-white text-4xl sm:text-5xl md:text-6xl font-bold">Metaverse Real Estate</h1>
       <h2 class="welcome-to-the-futur text-center text-white text-2xl sm:text-2xl md:text-2xl">Welcome to the future of property assets</h2>
@@ -15,6 +16,17 @@
         <p>Proin auctor enim et mi vestibulum pretium.</p>
       </div>
     </div>
+
+    <div class="discover p-12 w-full bg-bottom bg-cover" style="background-image: url(/images/Discover.png)">
+      <div class="title text-white text-center text-3xl sm:text-4xl md:text-5xl font-bold">
+        Discover our assets
+      </div>
+      <div class="text text-white text-center">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec semper lacus. Nulla facilisi. In hac habitasse platea dictumst. Us et netus et malesuada fames ac turpis egestas</p>
+        <p>Proin auctor enim et mi vestibulum pretium.</p>
+      </div>
+    </div>
+
   </section>
 
 
