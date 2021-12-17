@@ -6,7 +6,7 @@
       <h2 class="welcome-to-the-futur text-center text-white text-2xl sm:text-2xl md:text-2xl">Welcome to the future of property assets</h2>
     </div>
 
-    <div class="rectangle p-12 w-full bg-right-bottom bg-cover" style="background-image: url(/images/Rectangle.png)">
+    <div class="rectangle p-12 w-full mx-auto my-12 bg-right-bottom bg-cover rounded-lg" style="background-image: url(/images/Rectangle.png); max-width: 1003px">
       <div class="title text-white text-3xl sm:text-4xl md:text-5xl font-bold">
         Available for your game,<br />
         experience and land
@@ -17,7 +17,7 @@
       </div>
     </div>
 
-    <div class="discover p-12 w-full bg-bottom bg-cover" style="background-image: url(/images/Discover.png)">
+    <div class="discover p-12 pb-24 mx-auto my-12 w-full bg-bottom bg-cover rounded-lg" style="background-image: url(/images/Discover.png); max-width: 1003px">
       <div class="title text-white text-center text-3xl sm:text-4xl md:text-5xl font-bold">
         Discover our assets
       </div>
