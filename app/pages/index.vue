@@ -7,18 +7,18 @@
     </div>
 
     <div class="rectangle p-12 w-full mx-auto my-12 bg-right-bottom bg-cover rounded-lg" style="background-image: url(/images/Rectangle.png); max-width: 1003px">
-      <div class="title text-white text-3xl sm:text-4xl md:text-5xl font-bold">
+      <div class="title text-white text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
         Available for your game,<br />
         experience and land
       </div>
-      <div class="text text-white">
+      <div class="text text-white" style="padding-right: 45%;">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec semper lacus. Nulla facilisi. In hac habitasse platea dictumst. Us et netus et malesuada fames ac turpis egestas</p>
         <p>Proin auctor enim et mi vestibulum pretium.</p>
       </div>
     </div>
 
     <div class="discover p-12 pb-24 mx-auto my-12 w-full bg-bottom bg-cover rounded-lg" style="background-image: url(/images/Discover.png); max-width: 1003px">
-      <div class="title text-white text-center text-3xl sm:text-4xl md:text-5xl font-bold">
+      <div class="title text-white text-center text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
         Discover our assets
       </div>
       <div class="text text-white text-center">
