@@ -1,10 +1,8 @@
 <template>
 <header class="z-30 w-full px-2 py-4 bg-transparent sm:px-4">
   <div class="container flex items-center justify-between mx-auto">
-    <a href="#" class="flex items-center">
-      <Logo />
-      <span class="sr-only">Petra</span>
-    </a>
+    <img src="~/static/images/uploads/logo.svg" alt="Typeform Logo" class="block object-contain h-12" />
+
 
     <div class="flex items-center space-x-5 rtl:space-x-reverse">
      <ul class="relative hidden space-x-10 md:inline-flex rtl:space-x-reverse">
