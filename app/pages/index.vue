@@ -17,7 +17,7 @@
       </div>
     </div>
 
-   <div class="grid grid-cols-2 gap-10 justify-center lg:grid-cols-3">
+   <div class="grid grid-cols-2 p-20 gap-10 justify-center lg:grid-cols-3">
          <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
   <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains">
   <div class="px-6 py-4">
