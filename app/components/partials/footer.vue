@@ -40,7 +40,7 @@
     </nav>
   </div>
   <div class="flex flex-col items-start justify-between pt-10 mt-10 border-t border-gray-100 md:flex-row md:items-center">
-    <p class="mb-0 text-xs text-left text-gray-600 md:mb-0">Copyright &copy; 2020 Petra</p>
+    <p class="mb-0 text-xs text-left text-gray-600 md:mb-0">Copyright &copy; 2021 Metashop RealEstate</p>
   </div>
   <Cookie />
 </footer>
