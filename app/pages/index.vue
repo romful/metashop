@@ -19,7 +19,7 @@
 
     <div class="discover px-32 pt-20 pb-48 mx-auto my-24 w-full bg-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Discover.png); max-width: 1003px">
       <div class="title text-white text-center text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
-        Discover our assets
+        Incorporate real estate assets, grow your land´s value
       </div>
       <div class="text text-white text-center">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec semper lacus. Nulla facilisi. In hac habitasse platea dictumst. Us et netus et malesuada fames ac turpis egestas</p>
