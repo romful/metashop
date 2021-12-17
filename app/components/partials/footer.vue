@@ -1,6 +1,5 @@
 <template>
-  <footer class="container px-4 py-12 mx-auto border-solid border-gray-300">
-  <div class="container px-4 py-12 mx-auto border-solid border-gray-300 bg-black">
+<div class="container px-4 py-12 mx-auto border-solid border-gray-300 bg-black">
     <div class="grid grid-cols-2 gap-10 justify-center lg:grid-cols-3">
       <div class="flex items-center justify-center">
         <img src="~/static/images/opensea-realestate.png" alt="Todoist Logo" class="block object-contain h-12" />
@@ -13,6 +12,7 @@
       </div>
     </div>
 </div>
+  <footer class="container px-4 py-12 mx-auto border-solid border-gray-300">
   <div class="grid grid-cols-2 gap-10 mb-3 md:grid-cols-3 lg:grid-cols-11 lg:gap-20">
     <div class="col-span-3">
        <img src="~/static/images/uploads/logo.svg" alt="Typeform Logo" class="block object-contain h-12" />
