@@ -9,7 +9,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: #021561;
+  background-color: #000;
 }
 
 .page-enter-active,
@@ -34,4 +34,7 @@ body {
 }
 .nav a {
   color: white;
+}
+.welcome-bg{
+	background-image: url(../img/welcome.png);
 }
