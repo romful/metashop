@@ -5,16 +5,16 @@
     <p class="mb-16 text-medium text-center text-gray-600">Our waiting list for early bird clients is growing, get your spot and we'll update you soon!</p>
     <div class="grid grid-cols-2 gap-10 justify-center lg:grid-cols-4">
       <div class="flex items-center justify-center">
-        <img src="~/static/images/opensea-realestate" alt="Todoist Logo" class="block object-contain h-12" />
+        <img src="~/static/images/opensea-realestate.png" alt="Todoist Logo" class="block object-contain h-12" />
       </div>
       <div class="flex items-center justify-center">
-        <img src="~/static/images/thesandbox-realestate" alt="Slack Logo" class="block object-contain h-12" />
+        <img src="~/static/images/thesandbox-realestate.png" alt="Slack Logo" class="block object-contain h-12" />
       </div>
       <div class="flex items-center justify-center">
-        <img src="~/static/images/polygon-matic" alt="Typeform Logo" class="block object-contain h-12" />
+        <img src="~/static/images/polygon-matic.png" alt="Typeform Logo" class="block object-contain h-12" />
       </div>
       <div class="flex items-center justify-center">
-        <img src="~/static/images/opensea-realestate" alt="Slack Logo" class="block object-contain h-12" />
+        <img src="~/static/images/opensea-realestate.png" alt="Slack Logo" class="block object-contain h-12" />
       </div>
     </div>
 </div>
