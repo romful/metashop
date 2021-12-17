@@ -1,21 +1,19 @@
 <template>
-<header class="z-30 w-full px-2 py-4 bg-white sm:px-4">
+<header class="z-30 w-full px-2 py-4 bg-transparent sm:px-4">
   <div class="container flex items-center justify-between mx-auto">
     <a href="#" class="flex items-center">
       <Logo />
       <span class="sr-only">Petra</span>
     </a>
-    <div>
-      <ul class="relative hidden space-x-10 md:inline-flex rtl:space-x-reverse">
+
+    <div class="flex items-center space-x-5 rtl:space-x-reverse">
+     <ul class="relative hidden space-x-10 md:inline-flex rtl:space-x-reverse">
         <li><a href="#" class="text-gray-800 hover:text-gray-900 font-bold">Home</a></li>
         <li><a href="#" class="text-gray-800 hover:text-gray-900">About</a></li>
         <li><a href="#" class="text-gray-800 hover:text-gray-900">Blog</a></li>
         <li><a href="#" class="text-gray-800 hover:text-gray-900">Pricing</a></li>
       </ul>
-    </div>
-    <div class="flex items-center space-x-5 rtl:space-x-reverse">
-      <a href="#" class="hidden rounded-sm md:inline-flex px-5 py-2 border-solid border border-black">Login</a>
-      <a href="#" class="rounded-sm bg-black text-white px-5 py-2 border-solid border border-black">Signup</a>
+      <a href="#" class="rounded-sm bg-black text-white px-5 py-2 border-solid border border-black">Contact Us</a>
       <div class="inline-flex md:hidden">
         <button class="flex-none px-2 btn btn-white btn-sm" @click="open = true">
           <svg
