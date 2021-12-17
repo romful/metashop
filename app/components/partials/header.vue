@@ -1,41 +1,29 @@
 <template>
-<header class="z-30 w-full px-2 py-4 bg-transparent sm:px-4">
-  <div class="container flex items-center justify-between mx-auto">
-    <img src="~/static/images/uploads/logo.svg" alt="Typeform Logo" class="block object-contain h-12" />
-
-
-    <div class="flex items-center space-x-5 rtl:space-x-reverse">
-     <ul class="relative hidden space-x-10 md:inline-flex rtl:space-x-reverse">
-        <li><a href="#" class="text-gray-800 hover:text-gray-900 font-bold">Home</a></li>
-        <li><a href="#" class="text-gray-800 hover:text-gray-900">About</a></li>
-        <li><a href="#" class="text-gray-800 hover:text-gray-900">Blog</a></li>
-        <li><a href="#" class="text-gray-800 hover:text-gray-900">Pricing</a></li>
-      </ul>
-      <a href="#" class="rounded-sm bg-black text-white px-5 py-2 border-solid border border-black">Contact Us</a>
-      <div class="inline-flex md:hidden">
-        <button class="flex-none px-2 btn btn-white btn-sm" @click="open = true">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            aria-hidden="true"
-            class="w-5 h-5"
-          >
-            <line x1="3" y1="12" x2="21" y2="12"></line>
-            <line x1="3" y1="6" x2="21" y2="6"></line>
-            <line x1="3" y1="18" x2="21" y2="18"></line>
-          </svg>
-          <span class="sr-only">Open Menu</span>
-        </button>
-      
-      </div>
+  <header class="flex items-center py-4 md:py-8">
+    <div class="header__logo">
+      <nuxt-link to="/">
+        <img :src="logo" alt="Logo" />
+      </nuxt-link>
     </div>
-  </div>
-</header>
+
+    <nav class="nav ml-auto">
+      <ul class="flex flex-row items-center sm:mt-4 sm:pt-4 md:mt-0 md:pt-0 md:mr-4 lg:mr-8">
+        <li>
+          <nuxt-link to="/blog" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+            Services
+          </nuxt-link>
+        </li>
+
+        <li
+          v-for="(page, index) in pages"
+          :key="index"
+          class="block font-medium px-4 py-1 md:p-2 lg:px-4"
+        >
+          <nuxt-link :to="`/${page.slug}`">{{ page.title }}</nuxt-link>
+        </li>
+      </ul>
+    </nav>
+  </header>
 </template>
 
 
