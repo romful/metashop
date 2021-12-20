@@ -62,11 +62,11 @@
             </div>
             <div>
             	<div class="text-xs text-slate-300">Top bid</div>
-            	<div class="bids font-bold text-base">100.00</div>
+            	<div class="bids font-bold text-base"><img src="~/static/images/bids.svg" /> 100.00</div>
             </div>
           </div>
           <hr />
-          <div class="favorite text-base text-slate-300">128</div>
+          <div class="text-base text-slate-300"><img src="~/static/images/favorite.svg" /> 128</div>
         </div>
       </div>
     </div>
