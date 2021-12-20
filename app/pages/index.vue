@@ -18,7 +18,7 @@
     </div>
 
     <div class="grid grid-cols-2 mx-auto my-20 gap-24 justify-center lg:grid-cols-3" style="max-width: 1003px">
-      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white" style="max-width: 270px">
+      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
         <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
@@ -35,7 +35,7 @@
           <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
         </div>
       </div>
-      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white" style="max-width: 270px">
+      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
         <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
@@ -52,7 +52,7 @@
           <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
         </div>
       </div>
-      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white" style="max-width: 270px">
+      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
         <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
