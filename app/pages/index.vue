@@ -1,7 +1,7 @@
 <template>
   <section class="home">
 
-    <div class="py-32 md:py-32 w-full bg-center bg-cover bg-black bg-no-repeat" style="background-image: url(/images/home.png); min-height: 425px;">
+    <div class="px-4 py-32 md:py-32 w-full bg-center bg-cover bg-black bg-no-repeat" style="background-image: url(/images/home.png); min-height: 425px;">
       <h1 class="metaverse-real-estat text-center text-white text-4xl sm:text-5xl md:text-6xl font-bold">Metaverse Real Estate</h1>
       <h2 class="welcome-to-the-futur text-center text-white text-2xl sm:text-2xl md:text-2xl">Welcome to the future of property assets</h2>
     </div>
@@ -11,7 +11,7 @@
         Available for your game,<br />
         experience and land
       </div>
-      <div class="text text-white md:mr-64">
+      <div class="text text-white lg:mr-64">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec semper lacus. Nulla facilisi. In hac habitasse platea dictumst. Us et netus et malesuada fames ac turpis egestas</p>
         <p>Proin auctor enim et mi vestibulum pretium.</p>
       </div>
@@ -86,7 +86,7 @@
         Owner of the assets you buy,<br />
         thanks to NFT´s blockchain.
       </div>
-      <div class="text text-white md:mr-64">
+      <div class="text text-white lg:mr-64">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec semper lacus. Nulla facilisi. In hac habitasse platea dictumst. Us et netus et malesuada fames ac turpis egestas</p>
         <p>Proin auctor enim et mi vestibulum pretium.</p>
       </div>
