@@ -31,9 +31,17 @@
           </ul>
         </div>
       </div>
-      <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
-      </div>
     </div>
+  </div>
+  <div class="sm:hidden" id="mobile-menu">
+    <ul class="px-2 pt-2 pb-3 space-y-1">
+      <li>
+        <nuxt-link to="/blog" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Services</nuxt-link>
+      </li>
+      <li v-for="(page, index) in pages" :key="index">
+        <nuxt-link :to="`/${page.slug}`" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">{{ page.title }}</nuxt-link>
+      </li>
+    </ul>
   </div>
 </nav>
   </header>
