@@ -1,7 +1,7 @@
 <template>
-  <footer class="container px-4 py-12 mx-auto border-solid border-gray-300">
-  <div class="container px-4 py-12 mx-auto border-solid border-gray-300 bg-black">
-    <div class="grid grid-cols-2 gap-10 justify-center lg:grid-cols-3">
+  <footer class="py-12">
+  <div class="bg-black">
+    <div class="container py-24 grid grid-cols-2 gap-10 justify-center lg:grid-cols-3">
       <div class="flex items-center justify-center">
         <img src="~/static/images/opensea-realestate.png" alt="Todoist Logo" class="block object-contain h-12" />
       </div>
