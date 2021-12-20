@@ -61,11 +61,11 @@ export default class Header extends Vue {
 
   logo = settings.logo;
 }
-const btn = document.querySelector("button.mobile-menu-button");
+/*const btn = document.querySelector("button.mobile-menu-button");
 const menu = document.querySelector("#mobile-menu");
 btn.addEventListener("click", () => {
   menu.classList.toggle("hidden");
-});
+});*/
 </script>
 
 <style lang="scss">
