@@ -23,16 +23,16 @@
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
             <div>
-              <div class="font-semibold text-xs text-slate-300">by <span>Creator Name</span></div>
-              <div class="font-bold text-base">Name #7380</div>
+              <div class="font-semibold text-xs text-gray-400">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
             </div>
             <div>
-            	<div class="text-xs text-slate-300">Top bid</div>
-            	<div class="bids font-bold text-base">100.00</div>
+            	<div class="text-xs text-gray-400">Top bid</div>
+            	<div class="bids font-bold text-sm"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
             </div>
           </div>
-          <hr />
-          <div class="favorite text-base text-slate-300">128</div>
+          <hr class="my-3" />
+          <div class="text-sm text-gray-400"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
         </div>
       </div>
       <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
@@ -40,16 +40,16 @@
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
             <div>
-              <div class="font-semibold text-xs text-slate-300">by <span>Creator Name</span></div>
-              <div class="font-bold text-base">Name #7380</div>
+              <div class="font-semibold text-xs text-gray-400">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
             </div>
             <div>
-            	<div class="text-xs text-slate-300">Top bid</div>
-            	<div class="bids font-bold text-base">100.00</div>
+            	<div class="text-xs text-gray-400">Top bid</div>
+            	<div class="bids font-bold text-sm"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
             </div>
           </div>
-          <hr />
-          <div class="favorite text-base text-slate-300">128</div>
+          <hr class="my-3" />
+          <div class="text-sm text-gray-400"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
         </div>
       </div>
       <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
@@ -57,16 +57,16 @@
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
             <div>
-              <div class="font-semibold text-xs text-slate-300">by <span>Creator Name</span></div>
-              <div class="font-bold text-base">Name #7380</div>
+              <div class="font-semibold text-xs text-gray-400">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
             </div>
             <div>
-            	<div class="text-xs text-slate-300">Top bid</div>
-            	<div class="bids font-bold text-base"><img src="~/static/images/bids.svg" /> 100.00</div>
+            	<div class="text-xs text-gray-400">Top bid</div>
+            	<div class="bids font-bold text-sm"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
             </div>
           </div>
-          <hr />
-          <div class="text-base text-slate-300"><img src="~/static/images/favorite.svg" /> 128</div>
+          <hr class="my-3" />
+          <div class="text-sm text-gray-400"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
         </div>
       </div>
     </div>
