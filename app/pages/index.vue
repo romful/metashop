@@ -17,8 +17,8 @@
       </div>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-20 lg:mx-auto my-20 gap-24 justify-center" style="max-width: 1003px">
-      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-4 sm:mx-20 lg:mx-auto my-20 gap-24 justify-center" style="max-width: 1003px">
+      <div class="max-w-sm mx-auto rounded overflow-hidden shadow-lg bg-white">
         <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
@@ -35,7 +35,7 @@
           <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
         </div>
       </div>
-      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
+      <div class="max-w-sm mx-auto rounded overflow-hidden shadow-lg bg-white">
         <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
@@ -52,7 +52,7 @@
           <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
         </div>
       </div>
-      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
+      <div class="max-w-sm mx-auto rounded overflow-hidden shadow-lg bg-white">
         <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
@@ -71,7 +71,7 @@
       </div>
     </div>
 
-    <div class="discover px-16 md:px-32 py-12 md:pt-20 md:pb-48 mx-20 lg:mx-auto my-20 w-full bg-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Discover.png); max-width: 1003px">
+    <div class="discover px-16 md:px-32 py-12 md:pt-20 md:pb-48 mx-auto my-20 w-full bg-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Discover.png); max-width: 1003px">
       <div class="title text-white text-center text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
         Incorporate real estate assets, grow your land´s value
       </div>
