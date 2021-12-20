@@ -35,3 +35,17 @@ body {
 .nav a {
   color: white;
 }
+.bids:before{
+  content: "";
+  display: inline-block;
+  height: 10.47px;
+  width: 11.97px;
+  background: url(~/static/images/bids.svg) center center no-repeat;
+}
+.favorite:before{
+  content: "";
+  display: inline-block;
+  height: 15px;
+  width: 16px;
+  background: url(~/static/images/favorite.svg) center center no-repeat;
+}

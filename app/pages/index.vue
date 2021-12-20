@@ -17,37 +17,58 @@
       </div>
     </div>
 
-   <div class="grid grid-cols-2 p-20 gap-10 justify-center lg:grid-cols-3">
-         <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
-  <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains">
-  <div class="px-6 py-4">
-    <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
-    <p class="text-gray-700 text-base">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
-    </p>
-  </div>
-
-</div>
-        <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
-  <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains">
-  <div class="px-6 py-4">
-    <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
-    <p class="text-gray-700 text-base">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
-    </p>
-  </div>
- 
-</div>
-        <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
-  <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains">
-  <div class="px-6 py-4">
-    <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
-    <p class="text-gray-700 text-base">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
-    </p>
-  </div>
- 
-</div>
+    <div class="grid grid-cols-2 p-20 gap-10 justify-center lg:grid-cols-3">
+      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-slate-300">by <span>Creator Name</span></div>
+              <div class="font-bold text-base">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-slate-300">Top bid</div>
+            	<div class="bids font-bold text-base">100.00</div>
+            </div>
+          </div>
+          <hr />
+          <div class="favorite text-base text-slate-300">128</div>
+        </div>
+      </div>
+      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-slate-300">by <span>Creator Name</span></div>
+              <div class="font-bold text-base">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-slate-300">Top bid</div>
+            	<div class="bids font-bold text-base">100.00</div>
+            </div>
+          </div>
+          <hr />
+          <div class="favorite text-base text-slate-300">128</div>
+        </div>
+      </div>
+      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-slate-300">by <span>Creator Name</span></div>
+              <div class="font-bold text-base">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-slate-300">Top bid</div>
+            	<div class="bids font-bold text-base">100.00</div>
+            </div>
+          </div>
+          <hr />
+          <div class="favorite text-base text-slate-300">128</div>
+        </div>
+      </div>
     </div>
 
  
