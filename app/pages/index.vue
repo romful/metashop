@@ -6,7 +6,7 @@
       <h2 class="welcome-to-the-futur text-center text-white text-2xl sm:text-2xl md:text-2xl">Welcome to the future of property assets</h2>
     </div>
 
-    <div class="rectangle px-24 py-20 w-full mx-auto my-24 bg-right-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Rectangle.png); max-width: 1003px">
+    <div class="rectangle px-24 py-20 w-full mx-auto my-20 bg-right-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Rectangle.png); max-width: 1003px">
       <div class="title text-white text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
         Available for your game,<br />
         experience and land
@@ -17,63 +17,61 @@
       </div>
     </div>
 
-    <div class="grid grid-cols-2 p-20 gap-10 justify-center lg:grid-cols-3">
-      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
+    <div class="grid grid-cols-2 mx-auto my-20 gap-24 justify-center lg:grid-cols-3" style="max-width: 1003px">
+      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white" style="max-width: 270px">
         <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
             <div>
-              <div class="font-semibold text-xs text-gray-400">by <span>Creator Name</span></div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
               <div class="font-bold text-sm">Name #7380</div>
             </div>
             <div>
-            	<div class="text-xs text-gray-400">Top bid</div>
-            	<div class="bids font-bold text-sm"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
             </div>
           </div>
           <hr class="my-3" />
-          <div class="text-sm text-gray-400"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
         </div>
       </div>
-      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
+      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white" style="max-width: 270px">
         <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
             <div>
-              <div class="font-semibold text-xs text-gray-400">by <span>Creator Name</span></div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
               <div class="font-bold text-sm">Name #7380</div>
             </div>
             <div>
-            	<div class="text-xs text-gray-400">Top bid</div>
-            	<div class="bids font-bold text-sm"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
             </div>
           </div>
           <hr class="my-3" />
-          <div class="text-sm text-gray-400"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
         </div>
       </div>
-      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white">
+      <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white" style="max-width: 270px">
         <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
           <div class="grid grid-cols-2 justify-between">
             <div>
-              <div class="font-semibold text-xs text-gray-400">by <span>Creator Name</span></div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
               <div class="font-bold text-sm">Name #7380</div>
             </div>
             <div>
-            	<div class="text-xs text-gray-400">Top bid</div>
-            	<div class="bids font-bold text-sm"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
             </div>
           </div>
           <hr class="my-3" />
-          <div class="text-sm text-gray-400"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
         </div>
       </div>
     </div>
 
- 
-
-    <div class="discover px-32 pt-20 pb-48 mx-auto my-24 w-full bg-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Discover.png); max-width: 1003px">
+    <div class="discover px-32 pt-20 pb-48 mx-auto my-20 w-full bg-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Discover.png); max-width: 1003px">
       <div class="title text-white text-center text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
         Incorporate real estate assets, grow your land´s value
       </div>
