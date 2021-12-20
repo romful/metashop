@@ -28,11 +28,11 @@
             </div>
             <div>
             	<div class="text-xs text-gray-600 text-right">Top bid</div>
-            	<div class="bids font-semibold text-sm text-right"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" /> 100.00</div>
             </div>
           </div>
           <hr class="my-3" />
-          <div class="text-sm font-medium text-gray-600"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
         </div>
       </div>
       <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white" style="max-width: 270px">
@@ -45,11 +45,11 @@
             </div>
             <div>
             	<div class="text-xs text-gray-600 text-right">Top bid</div>
-            	<div class="bids font-semibold text-sm text-right"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" /> 100.00</div>
             </div>
           </div>
           <hr class="my-3" />
-          <div class="text-sm font-medium text-gray-600"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
         </div>
       </div>
       <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white" style="max-width: 270px">
@@ -62,11 +62,11 @@
             </div>
             <div>
             	<div class="text-xs text-gray-600 text-right">Top bid</div>
-            	<div class="bids font-semibold text-sm text-right"><img class="inline-block" src="~/static/images/bids.svg" /> 100.00</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" /> 100.00</div>
             </div>
           </div>
           <hr class="my-3" />
-          <div class="text-sm font-medium text-gray-600"><img class="inline-block" src="~/static/images/favorite.svg" /> 128</div>
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
         </div>
       </div>
     </div>
