@@ -6,7 +6,7 @@
       <h2 class="welcome-to-the-futur text-center text-white text-2xl sm:text-2xl md:text-2xl">Welcome to the future of property assets</h2>
     </div>
 
-    <div class="rectangle py-12 md:py-20 px-16 md:pl-24 md:pr-64 w-full mx-auto my-20 bg-right-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Rectangle.png); max-width: 1003px">
+    <div class="rectangle container py-12 md:py-20 px-16 md:pl-24 md:pr-64 w-full mx-auto my-20 bg-right-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Rectangle.png)">
       <div class="title text-white text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
         Available for your game,<br />
         experience and land
@@ -17,7 +17,7 @@
       </div>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-4 sm:mx-20 lg:mx-auto my-20 gap-24 justify-center" style="max-width: 1003px">
+    <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-4 sm:mx-20 lg:mx-auto my-20 gap-24 justify-center">
       <div class="max-w-sm mx-auto rounded overflow-hidden shadow-lg bg-white">
         <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
@@ -71,7 +71,7 @@
       </div>
     </div>
 
-    <div class="discover px-16 md:px-32 py-12 md:pt-20 md:pb-48 mx-auto my-20 w-full bg-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Discover.png); max-width: 1003px">
+    <div class="discover container px-16 md:px-32 py-12 md:pt-20 md:pb-48 mx-auto my-20 w-full bg-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Discover.png)">
       <div class="title text-white text-center text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
         Incorporate real estate assets, grow your land´s value
       </div>
@@ -81,7 +81,7 @@
       </div>
     </div>
 
-    <div class="rectangle py-12 md:py-20 px-16 md:pl-24 md:pr-64 w-full mx-auto my-20 bg-right-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Rectangle.png); max-width: 1003px">
+    <div class="rectangle container py-12 md:py-20 px-16 md:pl-24 md:pr-64 w-full mx-auto my-20 bg-right-bottom bg-cover rounded-lg bg-no-repeat" style="background-image: url(/images/Rectangle.png)">
       <div class="title text-white text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-10">
         Owner of the assets you buy,<br />
         thanks to NFT´s blockchain.

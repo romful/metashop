@@ -1,19 +1,19 @@
 <template>
   <footer class="py-12">
   <div class="bg-black">
-    <div class="container mx-auto py-24 grid grid-cols-2 gap-10 justify-center lg:grid-cols-3">
-      <div class="flex items-center justify-center">
+    <div class="container mx-auto py-16 flex flex-col md:flex-row justify-between">
+      <div class="flex items-center justify-center py-6">
         <img src="~/static/images/opensea-realestate.png" alt="Todoist Logo" class="block object-contain h-12" />
       </div>
-      <div class="flex items-center justify-center">
+      <div class="flex items-center justify-center py-6">
         <img src="~/static/images/thesandbox-realestate.png" alt="Slack Logo" class="block object-contain h-12" />
       </div>
-      <div class="flex items-center justify-center">
+      <div class="flex items-center justify-center py-6">
         <img src="~/static/images/polygon-matic.png" alt="Typeform Logo" class="block object-contain h-12" />
       </div>
     </div>
   </div>
-  <div class="container mx-auto grid grid-cols-2 gap-10 mb-3 md:grid-cols-3 lg:grid-cols-11 lg:gap-20">
+  <div class="container mt-12 mb-3 mx-auto grid grid-cols-2 gap-10 md:grid-cols-3 lg:grid-cols-11 lg:gap-20">
     <div class="col-span-3">
       <img src="~/static/images/uploads/logo.svg" alt="Typeform Logo" class="block object-contain h-12" />
 
