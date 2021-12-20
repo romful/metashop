@@ -7,7 +7,12 @@
 module.exports = {
   theme: {
     container: {
-      "max-width": "1003px"
+      screens: {
+         sm: "640px",
+         md: "768px",
+         lg: "1003px",
+         xl: "1003px"
+      }
     }
   },
   variants: {},
