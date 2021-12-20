@@ -1,7 +1,7 @@
 <template>
   <footer class="py-12">
   <div class="bg-black">
-    <div class="container py-24 grid grid-cols-2 gap-10 justify-center lg:grid-cols-3">
+    <div class="container mx-auto py-24 grid grid-cols-2 gap-10 justify-center lg:grid-cols-3">
       <div class="flex items-center justify-center">
         <img src="~/static/images/opensea-realestate.png" alt="Todoist Logo" class="block object-contain h-12" />
       </div>
@@ -12,18 +12,20 @@
         <img src="~/static/images/polygon-matic.png" alt="Typeform Logo" class="block object-contain h-12" />
       </div>
     </div>
-</div>
-  <div class="grid grid-cols-2 gap-10 mb-3 md:grid-cols-3 lg:grid-cols-11 lg:gap-20">
+  </div>
+  <div class="container mx-auto grid grid-cols-2 gap-10 mb-3 md:grid-cols-3 lg:grid-cols-11 lg:gap-20">
     <div class="col-span-3">
-       <img src="~/static/images/uploads/logo.svg" alt="Typeform Logo" class="block object-contain h-12" />
+      <img src="~/static/images/uploads/logo.svg" alt="Typeform Logo" class="block object-contain h-12" />
 
       <p class="my-4 text-xs leading-normal text-gray-100">
         The best  digital marketplace for real estate collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.
       </p>
-       <img src="~/static/images/opensea.svg" alt="OpenSea" class="block object-contain" />
-       <img src="~/static/images/discord.svg" alt="Discord" class="block object-contain" />
-        <img src="~/static/images/twitter.svg" alt="Twitter" class="block object-contain" />
-       <img src="~/static/images/instagram.svg" alt="Instagram" class="block object-contain" />
+      <p>
+        <img src="~/static/images/opensea.svg" alt="OpenSea" class="mx-2 inline-block object-contain" />
+        <img src="~/static/images/discord.svg" alt="Discord" class="mx-2 inline-block object-contain" />
+        <img src="~/static/images/twitter.svg" alt="Twitter" class="mx-2 inline-block object-contain" />
+        <img src="~/static/images/instagram.svg" alt="Instagram" class="mx-2 inline-block object-contain" />
+      </p>
     </div>
     <nav class="col-span-1 md:col-span-1 lg:col-span-2">
       <p class="mb-3 text-md font-semibold text-gray-200 tracking-wider">Assets</p>
@@ -53,7 +55,7 @@
     </nav>
   </div>
 
-  <div class="flex flex-col items-start justify-between pt-10 mt-10 border-t border-gray-100 md:flex-row md:items-center">
+  <div class="container mx-auto flex flex-col items-start justify-between pt-10 mt-10 border-t border-gray-100 md:flex-row md:items-center">
     <p class="mb-0 text-xs text-left text-gray-100 md:mb-0">Copyright &copy; 2021 Metashop RealEstate</p>
   </div>
   <Cookie />
