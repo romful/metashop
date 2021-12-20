@@ -17,7 +17,7 @@
       </div>
     </div>
 
-    <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-4 sm:mx-20 lg:mx-auto my-20 gap-24 justify-center">
+    <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-auto my-20 gap-24 justify-center">
       <div class="max-w-sm mx-auto rounded overflow-hidden shadow-lg bg-white">
         <img class="w-full" src="~/static/images/asset1.svg" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
