@@ -1,6 +1,6 @@
 <template>
   <header class="container mx-auto">
-<nav class="bg-gray-800">
+<nav>
   <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
     <div class="relative flex items-center justify-between h-16">
       <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
@@ -25,8 +25,8 @@
             <li>
               <nuxt-link to="/blog" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Services</nuxt-link>
             </li>
-            <li v-for="(page, index) in pages" :key="index" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
-              <nuxt-link :to="`/${page.slug}`">{{ page.title }}</nuxt-link>
+            <li v-for="(page, index) in pages" :key="index">
+              <nuxt-link :to="`/${page.slug}`" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">{{ page.title }}</nuxt-link>
             </li>
           </ul>
         </div>
