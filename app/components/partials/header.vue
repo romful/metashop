@@ -33,7 +33,7 @@
       </div>
     </div>
   </div>
-  <div class="hidden absolute w-full bg-sky-900" id="mobile-menu">
+  <div class="hidden absolute w-full bg-[#021651]" id="mobile-menu">
     <ul class="px-2 pt-2 pb-3 space-y-1">
       <li>
         <nuxt-link to="/blog" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Services</nuxt-link>
