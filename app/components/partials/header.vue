@@ -60,15 +60,12 @@ export default class Header extends Vue {
   }
   mobile_menu(){
     console.log("!");
+    const menu = document.querySelector("#mobile-menu");
+    menu.classList.toggle("hidden");
+    console.log("!!");
   }
   logo = settings.logo;
 }
-/*
-const btn = document.querySelector("button.mobile-menu-button");
-const menu = document.querySelector("#mobile-menu");
-btn.addEventListener("click", () => {
-  menu.classList.toggle("hidden");
-});*/
 </script>
 
 <style lang="scss">
