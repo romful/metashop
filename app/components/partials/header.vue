@@ -58,11 +58,12 @@ export default class Header extends Vue {
   get pages(): Page[] {
     return this.$store.state.pages;
   }
-
+  mobile_menu(){
+  }
   logo = settings.logo;
-  let btn = document.querySelector("button.mobile-menu-button");
 }
 /*
+const btn = document.querySelector("button.mobile-menu-button");
 const menu = document.querySelector("#mobile-menu");
 btn.addEventListener("click", () => {
   menu.classList.toggle("hidden");
