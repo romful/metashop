@@ -14,6 +14,32 @@
 
     </div>
 
+    <div class="assets w-full">
+      <div style="background: #010F36" class="w-full">
+        <div class="container mx-auto grid grid-cols-1 md-grid-cols-2">
+          <ul class="flex flex-start">
+            <li>
+              <a href="#">Housing</a>
+            </li>
+            <li>
+              <a href="#">Lands</a>
+            </li>
+            <li>
+              <a href="#">Buildings</a>
+            </li>
+            <li>
+              <a href="#">Accessories</a>
+            </li>
+          </ul>
+          <div class="flex flex-end">
+            <div>Filter</div>
+            <div>Sort</div>
+            <input type="search" />
+          </div>
+        </div>
+      </div>
+    </div>
+
   </section>
 
 
