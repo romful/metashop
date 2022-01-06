@@ -15,9 +15,9 @@
     </div>
 
     <div class="assets w-full">
-      <div style="background: #010F36" class="w-full">
+      <div style="background: #010F36" class="w-full pt-2">
         <div class="container mx-auto grid grid-cols-1 md:grid-cols-2">
-          <ul class="col-span-1 flex justify-start text-white text-xs font-ligh uppercase">
+          <ul class="col-span-1 flex justify-start items-start text-white text-xs font-ligh uppercase mt-2">
             <li class="px-2 mr-8 font-semibold border-b-2 border-blue-700">
               <a href="#">Housing</a>
             </li>
@@ -31,10 +31,10 @@
               <a href="#">Accessories</a>
             </li>
           </ul>
-          <div class="col-span-1 flex justify-end text-white text-xs font-medium">
+          <div class="col-span-1 flex justify-end items-end text-white text-xs font-medium mb-2">
             <div class="px-2 mx-4">Filter</div>
             <div class="px-2 mx-4">Sort</div>
-            <input class="rounded border-none text-black" type="search" />
+            <input class="rounded border-none text-black px-2 py-1" type="search" />
           </div>
         </div>
       </div>
