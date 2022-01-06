@@ -17,24 +17,24 @@
     <div class="assets w-full">
       <div style="background: #010F36" class="w-full">
         <div class="container mx-auto grid grid-cols-1 md-grid-cols-2">
-          <ul class="flex flex-start">
-            <li>
+          <ul class="flex justify-start text-white text-xs font-ligh uppercase">
+            <li class="px-2 mx-4 font-semibold border-b-2 border-blue-700">
               <a href="#">Housing</a>
             </li>
-            <li>
+            <li class="px-2 mx-4">
               <a href="#">Lands</a>
             </li>
-            <li>
+            <li class="px-2 mx-4">
               <a href="#">Buildings</a>
             </li>
-            <li>
+            <li class="px-2 mx-4">
               <a href="#">Accessories</a>
             </li>
           </ul>
-          <div class="flex flex-end">
-            <div>Filter</div>
-            <div>Sort</div>
-            <input type="search" />
+          <div class="flex justify-end text-white text-xs font-medium">
+            <div class="px-2 mx-4">Filter</div>
+            <div class="px-2 mx-4">Sort</div>
+            <input class="rounded border-none" type="search" />
           </div>
         </div>
       </div>
