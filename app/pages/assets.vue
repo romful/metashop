@@ -1,11 +1,17 @@
 <template>
   <section class="assets">
-    <div class="breadcrumbs px-4 py-32 md:py-32 w-full">
-      <a href="/">Home</a> / Assets
-    </div>
+    <div style="background: #010F36" class="w-full pt-10">
 
-    <div class="px-4 py-32 md:py-32 w-full">
-      <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold">Property Assets</h1>
+      <div class="breadcrumbs container mx-auto">
+        <div class="text-white text-xs">
+          <a href="/">Home</a> / Assets
+        </div>
+      </div>
+
+      <div class="container mx-auto">
+        <h1 class="text-white text-2xl sm:text-3xl md:text-4xl font-bold">Property Assets</h1>
+      </div>
+
     </div>
 
   </section>
