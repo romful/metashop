@@ -165,7 +165,7 @@
             </div>
             <div class="flex items-center">
               <div>Rank 10</div>
-              <div class="mx-2 border-x-5 border-b-8 border-transparent" style="border-bottom-color: #00B213"></div>
+              <div class="mx-2 border-l-4 border-r-4 border-b-8 border-transparent" style="border-bottom-color: #00B213"></div>
               <div class="w-8 h-8 overflow-hidden">
                 <img src="/images/roket.png" />
               </div>
