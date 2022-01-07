@@ -34,7 +34,7 @@
           <div class="col-span-1 flex justify-end items-end text-white text-xs font-medium mb-2">
             <div class="px-2 mx-4">Filter</div>
             <div class="px-2 mx-4">Sort</div>
-            <input class="rounded border-none text-black px-2 py-1" type="search" />
+            <input class="text-sm leading-6 text-gray-400 rounded-md ring-1 ring-gray-900/10 shadow-sm py-1.5 pl-2 pr-3 hover:ring-gray-300 dark:bg-gray-800 dark:highlight-white/5 dark:hover:bg-gray-700" type="search" placeholder="Type your research here…" style="background: url(/images/search.svg) right center no-repeat #021651" />
           </div>
         </div>
       </div>
