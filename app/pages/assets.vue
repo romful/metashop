@@ -150,6 +150,33 @@
         </div>
       </div>
     </div>
+    <div style="background: #010F36">
+      <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mx-auto my-20 gap-24 justify-center">
+        <div>
+          <img src="/images/hous.png" />
+        </div>
+        <div class="text-white">
+          <div class="flex">
+            <div>
+              <div class="rounded-full w-2 h2">
+                <img src="/images/profile.jpg" />
+              </div>
+              <div>Creator Name</div>
+            </div>
+            <div>
+              <div>Rank 10</div>
+              <div class="rounded-full w-2 h2">
+                <img src="/images/roket.png" />
+              </div>
+            </div>
+          </div>
+          <div class="weight-bold text-lg">Port House</div>
+          <div>
+            <p>This Parisian building with shops is a high end, photorealistic 3D model, that is created to help you add the realism to your project…</p>
+          </div>
+        </div>
+      </div>
+    </div>
 
   </section>
 
