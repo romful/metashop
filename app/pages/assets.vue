@@ -34,7 +34,13 @@
           <div class="col-span-1 flex justify-end items-end text-white text-xs font-medium mb-2">
             <div class="px-2 mx-4">Filter</div>
             <div class="px-2 mx-4">Sort</div>
-            <input class="ml-6 w-56 outline-none text-sm leading-6 text-gray-400 rounded-md ring-1 ring-gray-900/10 shadow-sm px-2 py-1 hover:ring-gray-300 dark:bg-gray-800 dark:highlight-white/5 dark:hover:bg-gray-700" type="text" placeholder="Type your research here…" style="background: url(/images/search.svg) right center no-repeat #021651" />
+            <input class="ml-6 w-56 outline-none text-sm leading-6 text-gray-400 rounded-md ring-1 ring-gray-900/10 shadow-sm pl-3 pr-12 py-1 hover:ring-gray-300 dark:bg-gray-800 dark:highlight-white/5 dark:hover:bg-gray-700" type="text" placeholder="Type your research here…" />
+            <button style="color: #56638B" class="-translate-x-full appearance-none">
+              <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-3 flex-none">
+                <path d="m19 19-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle cx="11" cy="11" r="6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></circle>
+              </svg>
+            </button>
           </div>
         </div>
       </div>
