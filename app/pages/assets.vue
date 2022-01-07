@@ -150,8 +150,8 @@
         </div>
       </div>
     </div>
-    <div style="background: #010F36">
-      <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mx-auto my-20 gap-24 justify-center">
+    <div style="background: #010F36" class="overflow-hidden">
+      <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mx-auto my-16 gap-24 justify-center">
         <div>
           <img src="/images/house.png" />
         </div>
@@ -165,12 +165,13 @@
             </div>
             <div class="flex items-center">
               <div>Rank 10</div>
+              <div class="mx-2 border-x-5 border-b-8 border-transparent" style="border-bottom-color: #00B213"></div>
               <div class="w-8 h-8 overflow-hidden">
                 <img src="/images/roket.png" />
               </div>
             </div>
           </div>
-          <div class="weight-bold text-6xl">Port House</div>
+          <div class="font-bold text-6xl">Port House</div>
           <div>
             <p>This Parisian building with shops is a high end, photorealistic 3D model, that is created to help you add the realism to your project…</p>
           </div>
