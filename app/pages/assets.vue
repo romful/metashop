@@ -17,7 +17,7 @@
     <div class="assets w-full">
       <div style="background: #010F36" class="w-full pt-2">
         <div class="container mx-auto grid grid-cols-1 md:grid-cols-2">
-          <ul class="col-span-1 flex justify-start items-start text-white text-xs font-ligh uppercase mt-2">
+          <ul class="col-span-1 flex justify-start items-start text-white text-xs font-ligh uppercase mt-4">
             <li class="px-2 mr-8 font-semibold border-b-2 border-blue-700">
               <a href="#">Housing</a>
             </li>
@@ -34,7 +34,7 @@
           <div class="col-span-1 flex justify-end items-end text-white text-xs font-medium mb-2">
             <div class="px-2 mx-4">Filter</div>
             <div class="px-2 mx-4">Sort</div>
-            <input class="outline-none text-sm leading-6 text-gray-400 rounded-md ring-1 ring-gray-900/10 shadow-sm px-2 py-1 hover:ring-gray-300 dark:bg-gray-800 dark:highlight-white/5 dark:hover:bg-gray-700" type="search" placeholder="Type your research here…" style="background: url(/images/search.svg) right center no-repeat #021651" />
+            <input class="ml-6 w-56 outline-none text-sm leading-6 text-gray-400 rounded-md ring-1 ring-gray-900/10 shadow-sm px-2 py-1 hover:ring-gray-300 dark:bg-gray-800 dark:highlight-white/5 dark:hover:bg-gray-700" type="text" placeholder="Type your research here…" style="background: url(/images/search.svg) right center no-repeat #021651" />
           </div>
         </div>
       </div>
