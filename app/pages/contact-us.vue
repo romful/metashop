@@ -14,9 +14,9 @@
 
     </div>
 
-    <div class="form grid grid-cols-1 md:grid-cols-3 container rounded-lg bg-white pr-24 pl-10 py-6 mx-auto mt-12 mb-32">
-      <div class="col-span-1">
-        <div class="text-lg">Contact Information</div>
+    <div class="form grid grid-cols-1 md:grid-cols-3 container rounded-lg bg-white pr-24 pl-10 py-6 mx-auto mt-16 mb-32">
+      <div class="col-span-1 border-r border-black py-3 pr-10">
+        <div class="font-medium mb-5">Contact Information</div>
         <div>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec semper lacus. Nulla facilisi. In hac habitasse platea dictumst. Us et netus et malesuada fames ac turpis egestas</p>
           <p>Proin auctor enim et mi vestibulum pretium.</p>
@@ -27,33 +27,32 @@
         <div>
           <a href="mailto:ranref@cuotuga.gov">ranref@cuotuga.gov</a>
         </div>
-
       </div>
-      <div class="col-span-2">
-        <div class="text-lg">Send Us a Message</div>
+      <div class="col-span-2 py-3 pl-12">
+        <div class="font-medium mb-5">Send Us a Message</div>
         <form method="post" class="grid grid-cols-1 md:grid-cols-2">
           <div>
-            <label class="text-sm">First Name</label>
+            <label class="block text-sm">First Name</label>
             <input class="rounded bg-gray-500 text-black" type="text" name="firstname" />
           </div>
           <div>
-            <label class="text-sm">Last Name</label>
+            <label class="block text-sm">Last Name</label>
             <input class="rounded bg-gray-500 text-black" type="text" name="lastname" />
           </div>
           <div>
-            <label class="text-sm">Email</label>
+            <label class="block text-sm">Email</label>
             <input class="rounded bg-gray-500 text-black" type="email" name="email" />
           </div>
           <div>
-            <label class="text-sm">Phone</label>
+            <label class="block text-sm">Phone</label>
             <input class="rounded bg-gray-500 text-black" type="tel" name="phone" />
           </div>
           <div class="col-span-2">
-            <label class="text-sm col-span-2">Subject</label>
+            <label class="block text-sm col-span-2">Subject</label>
             <input class="rounded bg-gray-500 text-black" type="text" name="phone" />
           </div>
           <div class="col-span-2">
-            <label class="text-sm">Message</label>
+            <label class="block text-sm">Message</label>
             <textarea class="rounded bg-gray-500 text-black h-16" name="message"></textarea>
           </div>
           <div class="col-span-2 text-right">
