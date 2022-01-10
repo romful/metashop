@@ -14,7 +14,7 @@
 
     </div>
 
-    <div class="form grid grid-cols-1 md:grid-cols-3 container rounded-lg bg-white pr-32 pl-16 py-8">
+    <div class="form grid grid-cols-1 md:grid-cols-3 container rounded-lg bg-white pr-24 pl-10 py-6 mx-auto mt-12 mb-32">
       <div class="col-span-1">
         <div class="text-lg">Contact Information</div>
         <div>
@@ -31,7 +31,7 @@
       </div>
       <div class="col-span-2">
         <div class="text-lg">Send Us a Message</div>
-        <form method="post" class="grid  grid-cols-1 md:grid-cols-2">
+        <form method="post" class="grid grid-cols-1 md:grid-cols-2">
           <div>
             <label class="text-sm">First Name</label>
             <input class="rounded bg-gray-500 text-black" type="text" name="firstname" />
@@ -64,7 +64,7 @@
     </div>
 
   <div style="background: #010F36">
-    <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-auto my-20 gap-24 justify-center">
+    <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-auto pt-24 pb-32 gap-24 justify-center">
       <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
         <img class="w-full" src="~/static/images/1.png" alt="Sunset in the mountains" />
         <div class="px-6 py-4">
