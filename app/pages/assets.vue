@@ -151,7 +151,7 @@
       </div>
     </div>
     <div style="background: #010F36" class="overflow-hidden">
-      <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mx-auto my-16 gap-24 justify-center">
+      <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mx-auto my-16 gap-24 items-center">
         <div>
           <img src="/images/house.png" />
         </div>
@@ -185,9 +185,216 @@
             <p>This Parisian building with shops is a high end, photorealistic 3D model, that is created to help you add the realism to your project…</p>
           </div>
           <div class="flex text-xs">
-          	<a class="transition text-center w-40 mr-2 p-2 leading-4 border border-white text-gray-900 bg-white hover:bg-transparent" href="#">Buy Now</a>
-          	<a class="transition text-center w-40 p-2 leading-4 border border-white bg-transparent hover:bg-white hover:text-gray-900" href="#">Place a Bid</a>
+          	<a class="transition duration-300 text-center w-40 mr-2 p-2 leading-4 border border-white text-gray-900 bg-white hover:bg-transparent hover:text-white" href="#">Buy Now</a>
+          	<a class="transition duration-300 text-center w-40 p-2 leading-4 border border-white bg-transparent hover:bg-white hover:text-gray-900" href="#">Place a Bid</a>
           </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-auto mt-20 mb-48 gap-24 justify-center">
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/1.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/2.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/3.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/1.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/2.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/3.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/1.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/2.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/3.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/1.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/2.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
+        <img class="w-full" src="~/static/images/3.png" alt="Sunset in the mountains" />
+        <div class="px-6 py-4">
+          <div class="grid grid-cols-2 justify-between">
+            <div>
+              <div class="font-semibold text-xs text-gray-600">by <span>Creator Name</span></div>
+              <div class="font-bold text-sm">Name #7380</div>
+            </div>
+            <div>
+            	<div class="text-xs text-gray-600 text-right">Top bid</div>
+            	<div class="bids font-semibold text-sm text-right"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
+            </div>
+          </div>
+          <hr class="my-3" />
+          <div class="text-sm font-medium text-gray-600"><img class="inline-block mr-2 mb-1" src="~/static/images/favorite.svg" />128</div>
         </div>
       </div>
     </div>
