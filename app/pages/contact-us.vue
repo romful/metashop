@@ -1,6 +1,6 @@
 <template>
   <section class="assets">
-    <div style="background: #010F36" class="w-full pt-10">
+    <div style="background: #010F36" class="w-full py-10">
 
       <div class="breadcrumbs container mx-auto">
         <div class="text-white text-xs">
@@ -14,8 +14,56 @@
 
     </div>
 
-    <div class="form">FORM</div>
+    <div class="form grid grid-cols-1 md:grid-cols-3 container rounded-lg bg-white pr-32 pl-16 py-8">
+      <div class="col-span-1">
+        <div class="text-lg">Contact Information</div>
+        <div>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec semper lacus. Nulla facilisi. In hac habitasse platea dictumst. Us et netus et malesuada fames ac turpis egestas</p>
+          <p>Proin auctor enim et mi vestibulum pretium.</p>
+        </div>
+        <div>
+          +65347 983 387
+        </div>
+        <div>
+          <a href="mailto:ranref@cuotuga.gov">ranref@cuotuga.gov</a>
+        </div>
 
+      </div>
+      <div class="col-span-2">
+        <div class="text-lg">Send Us a Message</div>
+        <form method="post" class="grid  grid-cols-1 md:grid-cols-2">
+          <div>
+            <label class="text-sm">First Name</label>
+            <input class="rounded bg-gray-500 text-black" type="text" name="firstname" />
+          </div>
+          <div>
+            <label class="text-sm">Last Name</label>
+            <input class="rounded bg-gray-500 text-black" type="text" name="lastname" />
+          </div>
+          <div>
+            <label class="text-sm">Email</label>
+            <input class="rounded bg-gray-500 text-black" type="email" name="email" />
+          </div>
+          <div>
+            <label class="text-sm">Phone</label>
+            <input class="rounded bg-gray-500 text-black" type="tel" name="phone" />
+          </div>
+          <div class="col-span-2">
+            <label class="text-sm col-span-2">Subject</label>
+            <input class="rounded bg-gray-500 text-black" type="text" name="phone" />
+          </div>
+          <div class="col-span-2">
+            <label class="text-sm">Message</label>
+            <textarea class="rounded bg-gray-500 text-black h-16" name="message"></textarea>
+          </div>
+          <div class="col-span-2 text-right">
+            <button type="submit" class="transition duration-300 text-center w-40 p-2 leading-4 border border-white bg-transparent hover:bg-white hover:text-gray-900">Submit</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+  <div style="background: #010F36">
     <div class="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-auto my-20 gap-24 justify-center">
       <div class="max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg bg-white">
         <img class="w-full" src="~/static/images/1.png" alt="Sunset in the mountains" />
@@ -69,6 +117,7 @@
         </div>
       </div>
     </div>
+  </div>
 
   </section>
 
