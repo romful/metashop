@@ -172,16 +172,16 @@
             </div>
           </div>
           <div class="font-bold text-6xl">Port House</div>
-          <div class="flex">
-            <div class="font-bold text-md mr-2" style="color: #00D0FF">Housing</div>
-            <div class="flex font-medium text-sm text-white mr-2">
+          <div class="flex items-center">
+            <div class="font-bold text-md uppercase mr-5" style="color: #00D0FF">Housing</div>
+            <div class="flex font-medium text-xs mr-4">
               <div class="mr-1">Price:</div>
               <div class="bids"><img class="inline-block mr-1 mb-1" src="~/static/images/bids.svg" />100.00</div>
             </div>
-            <div class="font-medium text-sm text-white mr-2">2k view</div>
-            <div class="font-medium text-sm text-white mr-2">100 favorites</div>
+            <div class="font-medium text-xs mr-4">2k view</div>
+            <div class="font-medium text-xs">100 favorites</div>
           </div>
-          <div>
+          <div class="text-xs">
             <p>This Parisian building with shops is a high end, photorealistic 3D model, that is created to help you add the realism to your project…</p>
           </div>
         </div>
