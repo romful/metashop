@@ -185,8 +185,8 @@
             <p>This Parisian building with shops is a high end, photorealistic 3D model, that is created to help you add the realism to your project…</p>
           </div>
           <div class="flex text-xs">
-          	<a class="w-32 mr-2 p-4 border-white bg-white hover:bg-transparent" href="#">Buy Now</a>
-          	<a class="w-32 p-4 border-white bg-transparent hover:bg-white" href="#">Place a Bid</a>
+          	<a class="text-center w-32 mr-2 p-4 border border-white bg-white hover:bg-transparent" href="#">Buy Now</a>
+          	<a class="text-center w-32 p-4 border border-white bg-transparent hover:bg-white" href="#">Place a Bid</a>
           </div>
         </div>
       </div>
