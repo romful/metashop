@@ -43,8 +43,9 @@ export default class AssetsTemplate extends Vue {
 
     try {
       const assets = {
+        url: "https://api.opensea.io/api/v1/asset/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/1/",
         slug: "SLUG",
-        title: "TITLE",
+        title: params.assets,
         seoDescription: "SEO DESCRIPTION",
         seoMetaImage: null,
         content: "ASSETS CONTENT"
