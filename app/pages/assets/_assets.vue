@@ -42,13 +42,17 @@ export default class AssetsTemplate extends Vue {
     }
 
     try {
+      const contract_token = params.assets.split(" ");
+      const contract = contract_token[0];
+      const token = contract_token[1];
+      const url = `https://api.opensea.io/api/v1/asset/{contract}/{token}/`;
       const assets = {
         url: "https://api.opensea.io/api/v1/asset/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/1/",
         slug: "SLUG",
         title: params.assets,
         seoDescription: "SEO DESCRIPTION",
         seoMetaImage: null,
-        content: "ASSETS CONTENT"
+        content: url
       };
 
       return {
