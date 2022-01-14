@@ -5,7 +5,7 @@
         {{ assets.name }}
       </h1>
     </div>
-    <img src="{{ assets.image_preview_url }}" />
+    <img :src="{{ assets.image_preview_url }}" />
     <div v-html="$md.render(assets.description)" class="text-white assets__content markdown pt-4 md:pt-6 md:pb-24" />
   </article>
 </template>
