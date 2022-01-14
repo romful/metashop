@@ -2,11 +2,11 @@
   <article class="assets" :class="assets.slug">
     <div class="py-8 md:py-16 text-center mx-auto">
       <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">
-        {{ assets.title }}
+        {{ assets.name }}
       </h1>
     </div>
 
-    <div v-html="$md.render(assets.content)" class="assets__content markdown pt-4 md:pt-6 md:pb-24" />
+    <div v-html="$md.render(assets.description)" class="assets__content markdown pt-4 md:pt-6 md:pb-24" />
   </article>
 </template>
 
@@ -42,22 +42,17 @@ export default class AssetsTemplate extends Vue {
     }
 
     try {
-      const contract_token = params.assets.split("-");
-      const contract = contract_token[0];
-      const token = contract_token[1];
+      const slug = params.assets.split("-");
+      const contract = slug[0];
+      const token = slug[1];
       const url = "https://api.opensea.io/api/v1/asset/" + contract + "/" + token + "/";
       const response = await fetch(url);
-      const data = await response.json();
-      console.log(data);
-      content = JSON.stringify(data, null, 2);
-      console.log(content);
-      const assets = {
-        slug: "SLUG",
-        title: params.assets,
-        seoDescription: "SEO DESCRIPTION",
-        seoMetaImage: null,
-        content: content
-      };
+      let assets = await response.json();
+      assets.slug = slug;
+      assets.title = assets.name;
+      assets.seoDescription = assets.description;
+      assets.seoMetaImage = assets.image_preview_url;
+      console.log(assets);
 
       return {
         assets
