@@ -1,12 +1,12 @@
 <template>
   <article class="assets" :class="assets.slug">
     <div class="py-8 md:py-16 text-center mx-auto">
-      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">
+      <h1 class="text-white text-lg md:text-xl lg:text-4xl xl:text-6xl">
         {{ assets.name }}
       </h1>
     </div>
-
-    <div v-html="$md.render(assets.description)" class="assets__content markdown pt-4 md:pt-6 md:pb-24" />
+    <img src="{{ assets.image_preview_url }}" />
+    <div v-html="$md.render(assets.description)" class="text-white assets__content markdown pt-4 md:pt-6 md:pb-24" />
   </article>
 </template>
 
